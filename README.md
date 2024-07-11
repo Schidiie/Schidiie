@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**Schidiie/Schidiie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![[Lottie Animation](Animation - 1720541002544.gif](https://github.com/Schidiie/Schidiie/blob/main/Animation%20-%201720541002544.gif))
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a **Healthcare Data Analyst** with a strong foundation in **Excel**, **SQL**, and **Tableau**. I am passionate about leveraging data to improve healthcare outcomes and drive business decisions.
+
+### Skills
+- **Excel**: Advanced proficiency in data analysis, pivot tables, and VBA.
+- **SQL**: Skilled in querying, data manipulation, and database management.
+- **Tableau**: Experienced in creating interactive dashboards and visualizations.
+
+### Projects
+- **Project 1**: Description of your project.
+- **Project 2**: Description of your project.
+
+### Contact
+Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/sibelle-o-177b1b116/) or [Email](mailto:okwusibelle@gmail.com.com).
+
+![Profile views](https://gpvc.arturio.dev/your-github-Schidiie)
