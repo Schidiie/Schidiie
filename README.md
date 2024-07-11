@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-![[Lottie Animation](Animation - 1720541002544.gif](https://github.com/Schidiie/Schidiie/blob/main/Animation%20-%201720541002544.gif))
+![[Lottie Animation](Animation - 1720541002544.gif](https://github.com/Schidiie/Schidiie/blob/main/Animation%20-%201720541002544.gif)
 
 ## About Me
 
