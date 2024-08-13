@@ -1,4 +1,4 @@
-![[Lottie Animation](Animation - 1720541002544.gif](https://github.com/Schidiie/Schidiie/blob/main/Animation%20-%201720541002544.gif)![[Lottie Animation](Animation - 1720541002544.gif](https://github.com/Schidiie/Schidiie/blob/main/Animation%20-%201720541002544.gif)![[Lottie Animation](Animation - 1720541002544.gif](https://github.com/Schidiie/Schidiie/blob/main/Animation%20-%201720541002544.gif)![[Lottie Animation](Animation - 1720541002544.gif](https://github.com/Schidiie/Schidiie/blob/main/Animation%20-%201720541002544.gif)![[Lottie Animation](Animation - 1720541002544.gif](https://github.com/Schidiie/Schidiie/blob/main/Animation%20-%201720541002544.gif)![[Lottie Animation](Animation - 1720541002544.gif](https://github.com/Schidiie/Schidiie/blob/main/Animation%20-%201720541002544.gif)
+![[Lottie Animation](Animation - 1720541002544.gif](https://github.com/Schidiie/Schidiie/blob/main/Animation%20-%201720541002544.gif)![[Lottie Animation](Animation - 1720541002544.gif](https://github.com/Schidiie/Schidiie/blob/main/Animation%20-%201720541002544.gif)![[Lottie Animation](Animation - 1720541002544.gif](https://github.com/Schidiie/Schidiie/blob/main/Animation%20-%201720541002544.gif)![[Lottie Animation](Animation - 1720541002544.gif](https://github.com/Schidiie/Schidiie/blob/main/Animation%20-%201720541002544.gif)![[Lottie Animation](Animation - 1720541002544.gif](https://github.com/Schidiie/Schidiie/blob/main/Animation%20-%201720541002544.gif)
 
 ### 👋Hi, I'm Sibelle but my data friends call me Schidie!
 
@@ -6,7 +6,8 @@
 📚 Studied medicine and surgery at Shenyang Medical College, China    
 📊 My focus is on patient and operational healthcare data  
 🎙️ [Schidie Talks Health Tech (STHT)](http://podcasters.spotify.com/pod/show/schidie), my podcast where I discuss everything digitalhealth, healthtech, and medtech  
-🔍 Currently learning about [clinical research](https://www.bionabu.com/activity/817?tab=overview) and applying my unique blend of clinical knowledge and data analysis to improve healthcare outcomes.
+🔍 Currently learning about [clinical research](https://www.bionabu.com/activity/817?tab=overview) and applying my unique blend of clinical knowledge and data analysis
+to improve healthcare outcomes.
 
 ### Tech Stack
 ![Excel](https://img.icons8.com/color/48/000000/microsoft-excel-2019.png) ![SQL](https://img.icons8.com/color/48/000000/sql.png) ![Tableau](https://img.icons8.com/color/48/000000/tableau-software.png)
